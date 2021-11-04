@@ -1,0 +1,41 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 5,
+      "plumberId": 1,
+      "date_created": "2021-11-03T19:45:54.292Z",
+      "id": 13
+    },
+    {
+      "requestId": 5,
+      "plumberId": 1,
+      "date_created": "2021-11-03T19:46:48.903Z",
+      "id": 14
+    },
+    {
+      "requestId": 5,
+      "plumberId": 1,
+      "date_created": "2021-11-03T19:57:23.986Z",
+      "id": 15
+    }
+  ],
+  "requests": [
+    {
+      "description": "Install a sink",
+      "address": "700 Southeast Street",
+      "budget": "300",
+      "neededBy": "2021-11-11",
+      "id": 5
+    }
+  ]
+}
